@@ -1,0 +1,11 @@
+D:\Projects\AspCoreMicroservices\helloworld\bin\Debug\netcoreapp2.0\helloworld.deps.json
+D:\Projects\AspCoreMicroservices\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.json
+D:\Projects\AspCoreMicroservices\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.dev.json
+D:\Projects\AspCoreMicroservices\helloworld\bin\Debug\netcoreapp2.0\helloworld.dll
+D:\Projects\AspCoreMicroservices\helloworld\bin\Debug\netcoreapp2.0\helloworld.pdb
+D:\Projects\AspCoreMicroservices\helloworld\obj\Debug\netcoreapp2.0\helloworld.csprojAssemblyReference.cache
+D:\Projects\AspCoreMicroservices\helloworld\obj\Debug\netcoreapp2.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Projects\AspCoreMicroservices\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfoInputs.cache
+D:\Projects\AspCoreMicroservices\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfo.cs
+D:\Projects\AspCoreMicroservices\helloworld\obj\Debug\netcoreapp2.0\helloworld.dll
+D:\Projects\AspCoreMicroservices\helloworld\obj\Debug\netcoreapp2.0\helloworld.pdb
